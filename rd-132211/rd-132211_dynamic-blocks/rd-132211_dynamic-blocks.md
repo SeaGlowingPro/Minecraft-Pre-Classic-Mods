@@ -1,4 +1,4 @@
-#Unrestricted Blocks in Pre-Classic rd-132211
+# Unrestricted Blocks in Pre-Classic rd-132211
 This simple mod makes a massive impact on this version, making the block combinations and both the grass and cobblestone/stone be in different locations, instead of what's in the actual version, where there's only grass in a specific layer.
 
 Here's what changed from the original version:
